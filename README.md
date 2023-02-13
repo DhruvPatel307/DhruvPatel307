@@ -17,6 +17,6 @@
 
 ## Socials🤝🏻
 
-<a href="https://www.linkedin.com/in/yatharth-chauhan-729674202/"><img src="https://www.linkedin.com/in/dhruv-patel-35209325a&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://www.instagram.com/yatharth.chauhan_yc/"><img src="https://www.instagram.com/_dhruv.ig/?hl=en&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.snapchat.com/add/yatharth.2362"><img src="https://www.snapchat.com/add/dhruv_ptl3074?share_id=VTCE5IiUkLc&locale=en-US&style=for-the-badge&logo=snapchat&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dhruv-patel-35209325a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.instagram.com/_dhruv.ig/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.snapchat.com/add/dhruv_ptl3074?share_id=VTCE5IiUkLc&locale=en-US"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/></a>
