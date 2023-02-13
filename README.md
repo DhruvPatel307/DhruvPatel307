@@ -1,25 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Yatharth Chauhan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Dhruv patel</h1>
 <h3 align="center">B.Tech Computer Engineering, Student at CHARUSAT University, India</h3>
 
 <p align='center'>
   Passionate about programming and design</b> 
 </p>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/yatharth-chauhan-729674202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-   <a href="https://yatharthchauhan.me">
-<img alt="My Website" title="My Website" src="https://img.shields.io/badge/Portfolio-ff4828?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
-   <a href="https://www.instagram.com/yatharth.chauhan_yc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-<!--   <a href="https://twitter.com/Yatharth_YC"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;  -->
-<!--   <a href="https://www.snapchat.com/add/yatharth.2362"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/></a>&nbsp; -->
- 
-
-<!--    <a href="[https://yatharthchauhan.me](https://github.com/sponsors/YatharthChauhan2362)">
-<img alt="My Website" title="My Website" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/></a>&nbsp; -->
-
-</p>
-
-![Yatharth Chauhan Github Cover Page](https://user-images.githubusercontent.com/75237577/190224954-22cdc7a2-b6a8-492c-8abe-23acfc4eb00c.jpg)
 
 ## About Me🙋🏻
 
