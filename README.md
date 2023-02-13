@@ -8,8 +8,6 @@
 
 ## About Me🙋🏻
 
-🌐 Checkout my [Portfolio Website](https://yatharthchauhan.me)
-
 - 📑 Focus on: **Microsoft Azure | AWS | Devops**
 - :sparkling_heart: Fun Fact: I love using Emojis
 
